@@ -16,7 +16,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var buttonShake: UIButton!
     @IBOutlet weak var buttonRotation: UIButton!
     @IBOutlet weak var buttonVibrate: UIButton!
-    
+     
     var btIsVibrating = false
     
     override func viewDidLoad() {

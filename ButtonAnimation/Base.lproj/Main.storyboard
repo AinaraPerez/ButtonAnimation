@@ -52,7 +52,7 @@
                                     <constraint firstAttribute="width" constant="160" id="tRS-Hp-KNa"/>
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="20"/>
-                                <state key="normal" title="Tap"/>
+                                <state key="normal" title="Tap "/>
                                 <connections>
                                     <action selector="btTapAction:" destination="BYZ-38-t0r" eventType="touchUpInside" id="G0i-Ik-hhi"/>
                                 </connections>
